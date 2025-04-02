@@ -1,0 +1,39 @@
+nav,ul,li,a{
+    color: aquamarine;
+    display: inline;
+    text-decoration:none;
+    font-size: xx-large;
+    margin: 5px;
+}
+nav{
+    padding-left: 70%;
+    margin-bottom: auto;
+}
+h2{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 50px;
+}
+#skills{
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+.project{
+    text-align: left;
+    font-size: 30px;
+    color: aliceblue;
+    text-indent: 40px;
+}
+p{
+    color: aliceblue;
+    text-align: left;
+    font-size: 20px;
+}
+span{
+    font-size: 30px;
+    color: aquamarine;
+}
+#contact{
+    text-align: center;
+}

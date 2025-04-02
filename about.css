@@ -1,0 +1,26 @@
+h1{
+    color: antiquewhite;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    font-size: 30px;
+}
+#Interest{
+    text-align: left;
+}
+nav,ul,li,a{
+    color: aquamarine;
+    display: inline;
+    text-decoration:none;
+    font-size: xx-large;
+    margin: 5px;
+}
+nav{
+    padding-left: 70%;
+    margin-bottom: auto;
+}
+#Interest{
+    text-align: center;
+}
